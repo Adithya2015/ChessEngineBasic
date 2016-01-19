@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1443474407 source:c:\users\adithya apuroop\desktop\codeblocks\chess\board.cpp
+	"board.h"
+	"enumerations.h"
+	"helper_funcs.h"
+	"attacked_squares.h"
+	"stdlib.h"
+	<string>
+	<iostream>
+	<sstream>
+	<vector>
+	<cstring>
+
+1443468763 c:\users\adithya apuroop\desktop\codeblocks\chess\board.h
+	"enumerations.h"
+	"definitions.h"
+	<vector>
+
+1442836797 c:\users\adithya apuroop\desktop\codeblocks\chess\enumerations.h
+	<string>
+
+1443625118 source:c:\users\adithya apuroop\desktop\codeblocks\chess\nature.cpp
+	<iostream>
+	"board.h"
+	"enumerations.h"
+	"attacked_squares.h"
+	"helper_funcs.h"
+	<string>
+
+1443403623 source:c:\users\adithya apuroop\desktop\codeblocks\chess\attacked_squares.cpp
+	"enumerations.h"
+	"definitions.h"
+	"attacked_squares.h"
+	"helper_funcs.h"
+	"stdlib.h"
+	<iostream>
+	<vector>
+
+1443435889 c:\users\adithya apuroop\desktop\codeblocks\chess\definitions.h
+	<vector>
+
+1443183240 c:\users\adithya apuroop\desktop\codeblocks\chess\attacked_squares.h
+	"board.h"
+
+1443469734 c:\users\adithya apuroop\desktop\codeblocks\chess\helper_funcs.h
+	"definitions.h"
+	"sstream"
+	"enumerations.h"
+
+1443469914 source:c:\users\adithya apuroop\desktop\codeblocks\chess\helper_funcs.cpp
+	"helper_funcs.h"
+	"attacked_squares.h"
+
